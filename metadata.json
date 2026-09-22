@@ -1,0 +1,6 @@
+{
+  "name": "量化模型与特征工程诊断台",
+  "description": "全面剖析量化因子挖掘、数据一致性对比、模型训练瓶颈、特征工程缺陷及权重调优方案的专业交互式诊断工作台",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
